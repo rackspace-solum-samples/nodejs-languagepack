@@ -8,3 +8,5 @@ https://github.com/heroku/node-js-sample.git
 2.To run the application, provide following run command
 
 npm start
+
+3. Provide user_param PORT as 80
